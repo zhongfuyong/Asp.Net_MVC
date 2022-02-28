@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<meta name="viewport" content="width=device-width" />
+<br/>
+<script type="text/javascript">
+    function testClick() {
+        let loginParam = { "ip": "192.168.1.100", "port": "37777", "username": "admin", "password": "admin123" };
+        $.ajax({
+            type: 'post',
+            url: '/Test/Index',
+            dataType: 'json',
+            contentType: 'application/json',
+            async: false,
+            data: JSON.stringify(loginParam),
+            success: function (result) {
+                alert(JSON.stringify(result));
+            },
+            error: function () {
+                console.log("error");
+            }
+        });
+    }
+</script>
+<button id = "btn_test" onclick = "testClick()" > Ajax提交测试</button>
+<br/>
+
+

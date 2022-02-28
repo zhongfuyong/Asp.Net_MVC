@@ -24,5 +24,16 @@ namespace Asp.Net_MVC
             //注册Bundles，引用JS，CSS需要的组件
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
+        /// <summary>
+        /// 只要是响应不是200，就能被捕捉到
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        protected void Application_Error(object sender,EventArgs e) 
+        {
+            Exception exception = Server.GetLastError();
+            Response.Write("");
+            Server.ClearError();
+        }
     }
 }

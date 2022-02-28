@@ -1,0 +1,19 @@
+﻿@model Asp.Net_MVC.Controllers.SecondData
+@{
+    ViewBag.Title = "First";
+}
+@Html.ValidationSummary()
+@using (Html.BeginForm())
+{
+  <div> @Html.LabelFor(m => m.Email) </div>
+  <div> @Html.EditorFor(m => m.Email) </div>
+
+  <div> @Html.LabelFor(m => m.Password) </div>
+  <div> @Html.EditorFor(m => m.Password) </div>
+
+  <div> @Html.LabelFor(m => m.Age) </div>
+  <div> @Html.EditorFor(m => m.Age) </div>
+
+  <input type = "submit" value = "保存" />
+}
+

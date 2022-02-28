@@ -1,0 +1,24 @@
+﻿@{
+    //取消使用模板视图
+    //Layout = null;
+    ViewBag.Title = "Home Page";
+}
+@*
+    行内不得有{}
+    <h3>@ViewBag.Title</h3>
+
+    母版页内嵌视图-Partial
+    Html.RenderPartial
+    Html.Partial
+
+    母版页内嵌视图-Action
+    Html.RenderAction
+    Html.Action
+
+    @RenderSection占位符
+*@
+
+<form action="/Submit/Index" method="post">
+    <input type="text" name="username" />
+    <input type="submit" value="submit" />
+</form>

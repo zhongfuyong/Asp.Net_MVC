@@ -16,14 +16,14 @@ namespace Asp.Net_MVC
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
+                defaults: new { controller = "Test", action = "First", id = UrlParameter.Optional }
             );
         }
         public static void MyRegisterRoutes(RouteCollection routes)
         {
             //特性路由
             routes.MapMvcAttributeRoutes();
-            //忽略资源文件
+            //忽略路由 xxx/.axd/xxx
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
             //定义路由
             routes.MapRoute(

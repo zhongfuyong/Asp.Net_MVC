@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Interface\bin\Debug\Asp.Net.Interface.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Interface\bin\Debug\Asp.Net.Interface.pdb
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Interface\obj\Debug\Asp.Net.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Interface\obj\Debug\Asp.Net.Interface.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Interface\obj\Debug\Asp.Net.Interface.pdb
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Interface\obj\Debug\Asp.Net.Interface.csprojAssemblyReference.cache

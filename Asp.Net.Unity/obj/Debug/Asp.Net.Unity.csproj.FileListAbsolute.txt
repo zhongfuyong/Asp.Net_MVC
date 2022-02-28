@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\Asp.Net.Unity.exe.config
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\Asp.Net.Unity.exe
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\Asp.Net.Unity.pdb
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\Asp.Net.Interface.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\Unity.Abstractions.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\Unity.Container.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\Asp.Net.Interface.pdb
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\bin\Debug\Unity.Container.pdb
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\obj\Debug\Asp.Net.Unity.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\obj\Debug\Asp.Net.Unity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\obj\Debug\Asp.Net.Unity.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\obj\Debug\Asp.Net.Unity.exe
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.Unity\obj\Debug\Asp.Net.Unity.pdb

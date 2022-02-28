@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\bin\Debug\Model.dll.config
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\bin\Debug\Model.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\obj\Debug\Model.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Model\obj\Debug\Model.pdb
