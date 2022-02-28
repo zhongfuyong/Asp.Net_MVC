@@ -151,7 +151,6 @@
     <Compile Include="Areas\First\FirstAreaRegistration.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\SubmitController.cs" />
-    <Compile Include="Views\Verification\TestController.cs" />
     <Compile Include="Controllers\VerificationController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
