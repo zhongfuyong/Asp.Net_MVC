@@ -21,17 +21,6 @@ namespace Asp.Net_MVC.Controllers
         //[MyAllowAnonymousAttribute]
         public ActionResult Index()
         {
-            #region IOC
-            //ExeConfigurationFileMap fileMap = new ExeConfigurationFileMap();
-            //fileMap.ExeConfigFilename = Path.Combine(AppDomain.CurrentDomain.BaseDirectory + "CfgFile\\Unity.Config");
-            //Configuration configuration = ConfigurationManager.OpenMappedExeConfiguration(fileMap, ConfigurationUserLevel.None);
-            //UnityConfigurationSection section = (UnityConfigurationSection)configuration.GetSection(UnityConfigurationSection.SectionName);
-            //IUnityContainer container = new UnityContainer();
-            //section.Configure(container, "aaaa");
-
-            //ISubInterface subInterface = container.Resolve<ISubInterface>();
-            #endregion
-
             return View();
         }
 

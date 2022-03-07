@@ -16,7 +16,7 @@ namespace Asp.Net_MVC
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "Test", action = "First", id = UrlParameter.Optional }
+                defaults: new { controller = "Submit", action = "Index", id = UrlParameter.Optional }
             );
         }
         public static void MyRegisterRoutes(RouteCollection routes)

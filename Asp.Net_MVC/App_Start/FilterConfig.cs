@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.ComponentModel.DataAnnotations;
 using System.Globalization;
 using System.IO.Compression;
@@ -130,10 +131,7 @@ namespace Asp.Net_MVC
         {
             this.LogingUrl = logingUrl;
         }
-        /// <summary>
-        /// 在AuthorizeCore返回结果是false时会调用的函数
-        /// </summary>
-        /// <param name="filterContext"></param>
+
         public override void OnAuthorization(AuthorizationContext filterContext)
         {
             HttpContextBase httpContextBase = filterContext.HttpContext;
@@ -178,4 +176,15 @@ namespace Asp.Net_MVC
     {
         
     }
+
+    //AuthorizationFilterAttribute
+
+    //RequireHttpsAttribute:Http请求重定向；如果当前请求地址为http://www.baidu.com，会自动重定向到https://www.baidu.com。
+    //如果当前请求的HTTP方法并不是GET，RequireHttpsAttribute会直接抛出一个InvalidOperationException异常。
+
+    //ValidateInputAttribute该特性用于标记必须验证其输入的操作方法
+
+    //ValidateAntiForgeryTokenAttribute用于解决一种叫做“跨站请求伪造（CSRF：Cross-Site Request Forgery）”
+
+    //IResourceFilter---.Net6.0
 }

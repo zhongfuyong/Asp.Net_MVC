@@ -8,7 +8,6 @@ namespace Asp.Net_MVC.Controllers
 {
     public class SubmitController : Controller
     {
-        // GET: Submit
         public ActionResult Index()
         {
             return View();

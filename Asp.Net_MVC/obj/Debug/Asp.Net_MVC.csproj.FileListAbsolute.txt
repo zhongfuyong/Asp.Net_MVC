@@ -111,3 +111,7 @@ C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net_MVC\bin\CfgFile\log4net.
 C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net_MVC\bin\CfgFile\Unity.Config
 C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net_MVC\bin\Unity.Interception.dll
 C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net_MVC\bin\Unity.Interception.pdb
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net_MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net_MVC\bin\System.Web.Http.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net_MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net_MVC\bin\System.Web.Http.xml
