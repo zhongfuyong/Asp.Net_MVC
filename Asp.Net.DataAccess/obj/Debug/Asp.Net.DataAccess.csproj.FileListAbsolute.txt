@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\bin\Debug\Asp.Net.DataAccess.dll.config
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\bin\Debug\Asp.Net.DataAccess.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\bin\Debug\Asp.Net.DataAccess.pdb
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\bin\Debug\Asp.Net.Interface.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\bin\Debug\Asp.Net.Interface.pdb
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\obj\Debug\Asp.Net.DataAccess.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\obj\Debug\Asp.Net.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\obj\Debug\Asp.Net.DataAccess.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\obj\Debug\Asp.Net.DataAccess.dll
+C:\Users\Administrator\source\repos\Asp.Net_MVC\Asp.Net.DataAccess\obj\Debug\Asp.Net.DataAccess.pdb
